@@ -1,0 +1,33 @@
+#shape{
+      
+      
+  display: none;
+  position: relative;
+ 
+}
+
+.head{
+  height: 100px;
+  width: 50%;
+  background-color:green ;
+  border-radius: 50px;
+  text-align: center;
+  color: aqua;
+  font-size: 22px;
+  padding: 5px;
+  margin-left: 350px;
+  font-family: sans-serif;
+  
+  
+}
+
+.para{
+  margin-top: 10px;
+}
+
+body{
+  background-color:black;
+}
+
+
+
